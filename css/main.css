@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav .navbar-custom {
+    background-color: #1E8BA2;
+    color: black;
+}
+
+.custom-nav{
+    background-color: #1E8BA2;
+    padding: 20px 20px 10px 20px;
+}
+
+.logo {
+    float:right;
+    width: 125px;
+}
+
+.left{
+    float: left;
+    margin: 0 20px 20px 10px;
+    vertical-align: center;
+}
+
+.icon-circle{
+    background: #FDC045;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 10px;
+    
+}
+
+.home-div{
+    background-color: white;
+    border-bottom: 3px solid #1E8BA2;
+    padding: 55px 30px 35px 30px;
+}
